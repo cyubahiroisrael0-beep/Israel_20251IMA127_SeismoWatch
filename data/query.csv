@@ -1,0 +1,276 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1990-09-04T01:48:00.760Z,-0.479,29.085,10,5.4,mw,,,,1.1,us,usp0004e9r,2022-04-28T19:37:03.642Z,"72 km SSW of Butembo, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,hrv
+1990-09-18T04:55:42.030Z,-4.061,29.483,10,5,mb,,,,1,us,usp0004eus,2022-04-28T19:38:29.765Z,"10 km SSE of Rumonge, Burundi",earthquake,,,,34,reviewed,us,us
+1990-12-15T20:56:51.300Z,0.18,29.529,18.2,4.7,mb,,,,1.1,us,usp0004j6j,2014-11-07T00:47:37.127Z,"26 km E of Butembo, Democratic Republic of the Congo",earthquake,,,,21,reviewed,us,us
+1990-12-20T18:37:44.190Z,-0.318,29.46,33,4.5,mb,,,,1,us,usp0004jda,2014-11-07T00:47:38.230Z,"54 km SSE of Butembo, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+1991-02-15T22:31:03.100Z,-4.379,28.518,10,4.7,mb,,,,0.6,us,usp0004mzm,2014-11-07T00:48:00.226Z,"111 km WSW of Rumonge, Burundi",earthquake,,,,6,reviewed,us,us
+1991-02-24T19:31:53.140Z,-1.68,28.772,10,4.6,mb,,,,1,us,usp0004ncr,2014-11-07T00:48:04.996Z,"32 km WSW of Sake, Democratic Republic of the Congo",earthquake,,,,19,reviewed,us,us
+1991-10-08T18:51:20.120Z,-2.04,27.446,10,4.8,mb,,,,1.4,us,usp0004xje,2014-11-07T00:49:22.893Z,"157 km WNW of Kabare, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+1992-03-01T11:15:12.400Z,-2.239,29.144,10,4.5,mb,,,,1.1,us,usp00053pf,2014-11-07T00:50:10.745Z,"30 km SW of Kibuye, Rwanda",earthquake,,,,7,reviewed,us,us
+1993-01-24T16:43:06.660Z,-2.164,27.555,10,4.5,mb,,,,1.2,us,usp0005m6m,2014-11-07T00:52:16.457Z,"142 km WNW of Kabare, Democratic Republic of the Congo",earthquake,,,,18,reviewed,us,us
+1993-07-31T02:32:45.840Z,-4.397,28.361,10,5,mb,,,,0.7,us,usp0005xqa,2014-11-07T00:53:34.817Z,"128 km WSW of Rumonge, Burundi",earthquake,,,,38,reviewed,us,us
+1993-08-11T17:11:34.720Z,-3.527,29.36,21.2,4.8,mb,,,,0.7,us,usp0005yce,2014-11-07T00:53:42.654Z,"16 km S of Bujumbura, Burundi",earthquake,,,,35,reviewed,us,us
+1993-09-28T22:30:49.770Z,-2.526,28.602,10,4.9,mb,,,,1.5,us,usp000616h,2014-11-07T00:54:03.369Z,"21 km W of Kabare, Democratic Republic of the Congo",earthquake,,,,37,reviewed,us,us
+1994-03-09T08:25:05.580Z,-1.803,29.795,33,4.8,mb,,,,0.8,us,usp00069eq,2014-11-07T00:55:07.617Z,"14 km N of Eglise Catholique, Centrale GIKO, Rwanda",earthquake,,,,17,reviewed,us,us
+1994-03-20T02:12:35.120Z,0.462,30.17,19.4,4.9,mb,,,,0.8,us,usp00069xx,2014-11-07T00:55:10.177Z,"24 km SSW of Fort Portal, Uganda",earthquake,,,,41,reviewed,us,us
+1994-03-29T22:59:21.190Z,0.487,30.166,10,4.5,mb,,,,0.5,us,usp0006ac8,2014-11-07T00:55:11.504Z,"22 km SSW of Fort Portal, Uganda",earthquake,,,,14,reviewed,us,us
+1994-05-22T00:50:20.280Z,0.011,29.928,10,4.6,mb,,,,0.7,us,usp0006cww,2014-11-07T00:55:30.052Z,"22 km SSW of Kilembe, Uganda",earthquake,,,,21,reviewed,us,us
+1995-04-29T11:50:52.560Z,-1.315,28.605,10,5.1,mb,,,,1.2,us,usp0006whz,2022-04-29T17:28:56.131Z,"56 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,56,reviewed,us,us
+1996-02-09T00:23:08.230Z,-0.101,29.749,10,3.9,mb,,,,0.4,us,usp0007cm0,2014-11-07T00:59:51.880Z,"44 km SW of Kilembe, Uganda",earthquake,,,,2,reviewed,us,us
+1997-02-11T07:38:37.910Z,-2.723,29.112,10,4.7,mb,,,,1.17,us,usp0007x2s,2014-11-07T01:02:08.137Z,"18 km N of Cibitoke, Burundi",earthquake,,,,4,reviewed,us,us
+1997-05-14T21:14:40.880Z,-3.913,28.681,10,4.4,mb,,,,0.86,us,usp00082an,2014-11-07T01:02:46.887Z,"76 km SW of Uvira, Democratic Republic of the Congo",earthquake,,,,20,reviewed,us,us
+1997-11-11T22:42:51.810Z,-2.727,28.912,10,4.7,mb,,,,1.11,us,usp0008agr,2014-11-07T01:03:53.572Z,"26 km S of Cyangugu, Rwanda",earthquake,,,,1,reviewed,us,us
+1998-02-22T17:19:56.900Z,0.521,29.323,10,4.5,mb,,,,0.97,us,usp0008gec,2014-11-07T01:04:34.879Z,"17 km W of Beni, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+1998-08-15T16:16:46.680Z,0.321,30.168,10,4.4,mb,,,,1.54,us,usp0008tap,2014-11-07T01:05:49.155Z,"17 km NNE of Kasese, Uganda",earthquake,,,,4,reviewed,us,us
+1998-08-29T04:49:56.490Z,-2.013,27.593,10,4.5,mb,,,,1.04,us,usp0008u19,2014-11-07T01:05:54.316Z,"143 km WNW of Kabare, Democratic Republic of the Congo",earthquake,,,,5,reviewed,us,us
+1998-10-04T08:38:09.540Z,-0.955,27.923,10,4.6,mb,,,,0.73,us,usp0008vys,2014-11-07T01:06:11.696Z,"142 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,36,reviewed,us,us
+1998-10-14T15:46:21.100Z,-0.18,27.315,10,4.5,mb,,,,0.93,us,usp0008wgy,2014-11-07T01:06:14.754Z,"222 km W of Butembo, Democratic Republic of the Congo",earthquake,,,,16,reviewed,us,us
+1999-03-30T11:43:51.490Z,-1.177,27.58,10,4.6,mb,,,,0.67,us,usp00095g1,2020-09-15T20:41:54.619Z,"168 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+1999-04-04T17:49:54.320Z,0.538,29.398,10,4.6,mb,,,,0.95,us,usp00095t0,2014-11-07T01:07:23.069Z,"9 km WNW of Beni, Democratic Republic of the Congo",earthquake,,,,36,reviewed,us,us
+2000-03-02T02:44:51.710Z,-2.582,27.826,10,5.4,mb,,,,0.87,us,usp0009p5q,2022-04-29T17:49:43.143Z,"107 km W of Kabare, Democratic Republic of the Congo",earthquake,,,,51,reviewed,us,us
+2000-03-02T04:29:48.560Z,-2.371,28.026,10,5,mb,,,,0.87,us,usp0009p5w,2022-04-29T18:34:20.851Z,"86 km W of Kabare, Democratic Republic of the Congo",earthquake,,,,39,reviewed,us,us
+2000-03-03T05:03:20.220Z,-2.432,28.012,10,4.9,mb,,,,0.91,us,usp0009p70,2022-04-29T19:02:50.313Z,"86 km W of Kabare, Democratic Republic of the Congo",earthquake,,,,35,reviewed,us,us
+2000-06-25T03:31:07.630Z,-4.274,27.865,10,3.8,mb,4,,,0.16,us,usp0009v35,2014-11-07T01:10:24.570Z,"134 km E of Kasongo, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2000-09-12T16:51:17.530Z,-2.265,28.739,10,4.6,mb,44,,,1.01,us,usp000a057,2014-11-07T01:11:04.714Z,"26 km NNW of Kabare, Democratic Republic of the Congo",earthquake,,,,13,reviewed,us,us
+2000-10-05T10:08:24.020Z,-1.152,28.71,10,4.5,mb,6,,,0.85,us,usp000a19w,2014-11-07T01:11:13.940Z,"59 km NW of Sake, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2000-10-26T18:20:37.450Z,-1.142,27.938,10,4.4,mb,29,,,1.1,us,usp000a2f9,2014-11-07T01:11:19.074Z,"131 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,12,reviewed,us,us
+2001-01-31T19:15:30.350Z,0.466,29.494,27.7,4.9,mb,78,,,1.09,us,usp000a8sp,2022-04-29T19:06:59.358Z,"3 km SE of Beni, Democratic Republic of the Congo",earthquake,,,,42,reviewed,us,us
+2001-06-29T23:40:00.850Z,0.292,29.972,10,5.3,mwc,102,,,1.07,us,usp000ahq6,2022-04-29T19:24:44.394Z,"11 km NNW of Kilembe, Uganda",earthquake,,,,,reviewed,us,hrv
+2002-01-04T13:02:18.850Z,-0.136,29.758,10,4.8,mb,65,,,0.95,us,usp000avts,2022-05-02T15:40:20.737Z,"46 km SW of Kilembe, Uganda",earthquake,,,,27,reviewed,us,us
+2002-01-17T14:26:59.720Z,-1.629,29.152,10,4.3,mb,7,,,1.37,us,usp000awnb,2014-11-07T01:14:42.384Z,"9 km WNW of Goma, Democratic Republic of the Congo",earthquake,,,,4,reviewed,us,us
+2002-01-17T20:01:29.260Z,-1.684,29.077,15.4,4.7,mb,40,,,0.95,us,usp000awns,2022-05-02T15:42:13.103Z,"12 km SSE of Sake, Democratic Republic of the Congo",earthquake,,,,23,reviewed,us,us
+2002-01-18T08:07:57.370Z,-1.578,29.031,10,4.2,mb,11,,,1.33,us,usp000awpt,2014-11-07T01:14:42.507Z,"1 km WSW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-18T15:14:02.040Z,-1.78,29.076,10,4.3,mb,7,,,1.55,us,usp000awqe,2014-11-07T01:14:42.642Z,"20 km SW of Goma, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-18T21:08:53.320Z,-1.662,28.866,10,4.2,mb,5,,,1.67,us,usp000awqt,2014-11-07T01:14:42.672Z,"22 km WSW of Sake, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2002-01-19T04:26:20.490Z,-1.761,28.969,10,3.9,mb,5,,,1.23,us,usp000awrj,2014-11-07T01:14:42.737Z,"22 km SSW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-19T17:09:29.170Z,-1.931,29.579,10,4.6,mb,35,,,1.32,us,usp000awsk,2020-09-18T18:41:35.595Z,"25 km W of Eglise Catholique, Centrale GIKO, Rwanda",earthquake,,,,21,reviewed,us,us
+2002-01-19T20:38:55.550Z,-1.879,29.059,10,4.2,mb,6,,,0.89,us,usp000awsx,2014-11-07T01:14:42.948Z,"29 km SW of Gisenyi, Rwanda",earthquake,,,,3,reviewed,us,us
+2002-01-20T00:14:44.390Z,-1.681,28.981,10,5.1,mwc,77,,,0.97,us,usp000awtc,2022-05-02T15:42:16.175Z,"13 km SSW of Sake, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,hrv
+2002-01-20T05:17:19.580Z,-1.641,29.042,10,3.9,mb,6,,,1.64,us,usp000awtx,2014-11-07T01:14:43.032Z,"7 km S of Sake, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2002-01-20T23:28:17.470Z,-1.599,29.05,10,4.2,mb,12,,,1.33,us,usp000awvq,2014-11-07T01:14:43.723Z,"2 km SSE of Sake, Democratic Republic of the Congo",earthquake,,,,4,reviewed,us,us
+2002-01-20T23:31:45.480Z,-1.726,29.168,10,3.8,mb,4,,,1.14,us,usp000awvr,2014-11-07T01:14:43.725Z,"8 km SW of Goma, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2002-01-21T01:19:32.600Z,-1.726,28.854,10,4.6,mb,40,,,1.28,us,usp000awvx,2022-05-02T15:42:50.900Z,"26 km SW of Sake, Democratic Republic of the Congo",earthquake,,,,18,reviewed,us,us
+2002-01-21T02:00:14.000Z,-1.505,28.941,10,4.2,mb,11,,,1.41,us,usp000aww2,2014-11-07T01:14:43.754Z,"13 km NW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-21T04:39:21.620Z,-1.776,29.041,10,5.1,mwc,97,,,0.97,us,usp000aww9,2022-05-02T15:42:17.679Z,"22 km S of Sake, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,hrv
+2002-01-21T10:55:03.720Z,-1.903,29.117,10,4.7,mb,36,,,1,us,usp000awwk,2022-05-02T15:42:19.161Z,"27 km SW of Gisenyi, Rwanda",earthquake,,,,10,reviewed,us,us
+2002-01-22T01:02:32.250Z,-1.787,28.971,10,4,mb,5,,,0.33,us,usp000awxz,2014-11-07T01:14:43.982Z,"24 km SSW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-22T02:01:01.340Z,-1.746,29.095,10,3.9,mb,10,,,1.18,us,usp000awy4,2014-11-07T01:14:43.993Z,"16 km WSW of Goma, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-01-22T15:32:05.590Z,-1.515,28.993,10,5.2,mwc,58,,,1.05,us,usp000awz7,2022-05-02T15:42:28.045Z,"8 km NW of Sake, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,hrv
+2002-01-22T16:22:22.340Z,-1.551,28.995,10,4.4,mb,11,,,1.04,us,usp000awzb,2014-11-07T01:14:44.643Z,"5 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,4,reviewed,us,us
+2002-01-22T16:51:00.380Z,-1.461,29.249,10,4.2,mb,8,,,1.28,us,usp000awzd,2014-11-07T01:14:44.646Z,"23 km N of Goma, Democratic Republic of the Congo",earthquake,,,,4,reviewed,us,us
+2002-01-30T00:33:09.140Z,-1.633,28.886,10,4.6,mblg,9,,,1.15,us,usp000axec,2014-11-07T01:14:46.565Z,"18 km WSW of Sake, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,us
+2002-02-11T13:49:26.120Z,-1.386,29.01,10,4.4,mb,12,,,1.08,us,usp000ay8a,2014-11-07T01:14:54.160Z,"21 km N of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-02-21T20:14:44.080Z,-1.194,26.907,10,4.2,mb,9,,,1.3,us,usp000ayx3,2014-11-07T01:14:57.132Z,"222 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-04-21T08:43:57.750Z,-3.065,27.974,10,4.3,mb,7,,,0.82,us,usp000b2w8,2014-11-07T01:15:27.146Z,"110 km SW of Kabare, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2002-07-04T20:52:31.720Z,-1.372,26.616,10,4.3,mb,10,,,0.94,us,usp000b7gk,2014-11-07T01:15:59.982Z,"190 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2002-09-09T14:13:27.930Z,-2.567,28.867,10,4.5,mb,16,,,0.83,us,usp000bbty,2014-11-07T01:16:29.388Z,"8 km SSE of Bukavu, Democratic Republic of the Congo",earthquake,,,,4,reviewed,us,us
+2002-10-24T06:08:37.980Z,-1.884,29.004,11,6.2,mwc,345,,,1.05,us,usp000bf6u,2022-05-02T16:12:38.083Z,"34 km SW of Goma, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,hrv
+2002-10-24T07:12:18.400Z,-1.822,28.979,10,5.5,ms,232,,,0.81,us,usp000bf75,2022-05-02T16:12:39.351Z,"28 km SSW of Sake, Democratic Republic of the Congo",earthquake,,,,97,reviewed,us,us
+2002-10-24T08:03:15.810Z,-2.013,29.014,10,5,mb,35,,,0.92,us,usp000bf78,2022-05-02T16:13:08.640Z,"37 km W of Kibuye, Rwanda",earthquake,,,,16,reviewed,us,us
+2002-10-24T10:19:22.030Z,-2.02,28.975,10,4.8,mb,45,,,1.01,us,usp000bf7u,2014-11-07T01:16:48.618Z,"41 km W of Kibuye, Rwanda",earthquake,,,,24,reviewed,us,us
+2002-10-24T11:40:17.830Z,-2.015,28.973,10,4.7,mb,33,,,0.68,us,usp000bf7z,2014-11-07T01:16:48.631Z,"41 km W of Kibuye, Rwanda",earthquake,,,,20,reviewed,us,us
+2002-10-26T12:56:47.710Z,-1.572,29.155,10,4.7,mb,46,,,0.61,us,usp000bfdj,2014-11-07T01:16:49.191Z,"12 km E of Sake, Democratic Republic of the Congo",earthquake,,,,23,reviewed,us,us
+2002-12-13T13:24:25.940Z,-1.852,29.041,10,4.7,mb,23,,,0.78,us,usp000bkmb,2014-11-07T01:17:21.140Z,"28 km SW of Goma, Democratic Republic of the Congo",earthquake,,,,8,reviewed,us,us
+2003-02-01T15:24:47.980Z,-0.926,27.592,10,4.9,mb,28,,,1.44,us,usp000bprz,2020-09-18T19:16:20.989Z,"176 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,9,reviewed,us,us
+2003-03-20T06:15:20.580Z,-2.418,29.56,10,5.2,mwc,237,57.3,,0.83,us,usp000bt35,2022-05-02T16:28:14.866Z,"Rwanda - Burundi region",earthquake,,,,,reviewed,us,hrv
+2003-04-05T22:48:19.950Z,-3.615,29.75,10,4.8,mb,53,118.3,,1.23,us,usp000bug2,2022-05-02T16:28:51.121Z,"12 km SSE of Mwaro, Burundi",earthquake,,,,40,reviewed,us,us
+2003-05-03T03:48:31.590Z,0.512,29.664,10,4.5,mb,41,113.9,,1.04,us,usp000bwg9,2014-11-07T01:18:31.941Z,"21 km E of Beni, Democratic Republic of the Congo",earthquake,,,,32,reviewed,us,us
+2003-07-17T11:49:15.420Z,-2.358,28.847,10,4.3,mb,10,152.5,,1.26,us,usp000c2qs,2014-11-07T01:19:13.943Z,"14 km N of Bukavu, Democratic Republic of the Congo",earthquake,,,,6,reviewed,us,us
+2003-08-05T18:56:50.710Z,-0.521,29.446,10,5.2,mwc,150,85.5,,1.33,us,usp000c479,2022-05-02T16:40:15.963Z,"46 km NNW of Ntungamo, Uganda",earthquake,,,,,reviewed,us,hrv
+2003-08-05T21:33:25.040Z,-0.335,29.134,10,4.4,mb,9,100.7,,1.31,us,usp000c47t,2014-11-07T01:19:28.024Z,"55 km SSW of Butembo, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2003-08-22T22:06:50.090Z,-1.904,29.033,10,4.3,mb,10,144.6,,1.07,us,usp000c5nz,2014-11-07T01:19:34.537Z,"33 km SW of Gisenyi, Rwanda",earthquake,,,,6,reviewed,us,us
+2003-08-25T02:05:57.990Z,-0.512,29.309,10,4.6,mb,49,93.8,,0.83,us,usp000c5vf,2014-11-07T01:19:35.136Z,"55 km NW of Ntungamo, Uganda",earthquake,,,,34,reviewed,us,us
+2003-09-01T00:39:03.020Z,-4.198,30.074,10,4.8,mb,20,131.7,,1.22,us,usp000c6du,2014-11-07T01:19:39.130Z,"30 km ESE of Makamba, Burundi",earthquake,,,,5,reviewed,us,us
+2003-11-02T12:47:18.320Z,0.473,30.168,10,3.8,mb,9,90.4,,1.09,us,usp000cbwm,2014-11-07T01:20:23.091Z,"24 km SSW of Fort Portal, Uganda",earthquake,,,,1,reviewed,us,us
+2003-12-31T04:17:24.770Z,-2.548,28.494,10,4.1,mb,8,141,,1.12,us,usp000cgkv,2014-11-07T01:20:51.839Z,"33 km W of Kabare, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2004-02-24T02:14:34.030Z,-3.393,29.558,10,4.7,mb,71,106.1,,1.03,us,usp000cmxd,2020-09-18T19:49:57.463Z,"14 km SSW of Muramvya, Burundi",earthquake,,0,,33,reviewed,us,us
+2004-02-24T07:00:02.490Z,-3.409,29.597,10,4.5,mb,18,107.2,,1.43,us,usp000cn0b,2014-11-07T01:21:26.211Z,"15 km S of Muramvya, Burundi",earthquake,,0,,4,reviewed,us,us
+2004-05-16T11:21:46.020Z,-2.877,29.49,10,4.7,mb,14,89.4,,1.01,us,usp000cv7e,2014-11-07T01:22:19.873Z,"16 km WNW of Kayanza, Burundi",earthquake,,0,,1,reviewed,us,us
+2004-05-24T04:13:02.270Z,0.116,30.054,10,4.4,mb,21,69.5,,0.98,us,usp000cw23,2014-11-07T01:22:23.628Z,"8 km SSW of Kasese, Uganda",earthquake,,,,5,reviewed,us,us
+2005-01-30T21:16:09.890Z,-1.976,28.965,10,4.5,mb,29,99,,0.95,us,usp000df8g,2014-11-07T01:24:49.942Z,"43 km WNW of Kibuye, Rwanda",earthquake,,0,,19,reviewed,us,us
+2005-03-13T03:04:22.890Z,0.19,29.883,10,4.5,mb,16,100.6,,1.31,us,usp000dj37,2014-11-07T01:25:13.795Z,"14 km W of Kilembe, Uganda",earthquake,,,,3,reviewed,us,us
+2005-09-03T06:05:12.760Z,0.06,29.903,10,4.4,mb,35,96.1,,1.04,us,usp000dynk,2014-11-07T01:26:59.642Z,"19 km SW of Kilembe, Uganda",earthquake,,,,7,reviewed,us,us
+2005-09-29T03:34:47.450Z,-3.316,28.394,10,3.9,mb,7,135,,0.93,us,usp000e0g3,2014-11-07T01:27:11.201Z,"83 km W of Uvira, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2006-02-25T06:11:24.710Z,-3.139,28.491,10,4.1,mb,9,104.1,,0.93,us,usp000eaty,2014-11-07T01:28:21.793Z,"75 km WSW of Cibitoke, Burundi",earthquake,,,,2,reviewed,us,us
+2006-03-09T03:41:21.980Z,-3.466,28.276,10,4.6,mb,35,104.7,,0.93,us,usp000ebqa,2014-11-07T01:28:29.668Z,"96 km W of Uvira, Democratic Republic of the Congo",earthquake,,,,15,reviewed,us,us
+2006-03-10T12:13:55.790Z,-3.248,28.099,10,4.1,mb,13,142.9,,1.17,us,usp000ebw3,2014-11-07T01:28:30.476Z,"113 km SW of Kabare, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2006-04-08T02:22:48.200Z,-2.469,29.593,3.4,4.2,mb,17,103.1,,,us,usp000edxq,2014-11-07T01:28:44.369Z,"4 km ENE of Nzega, Rwanda",earthquake,,,,4,reviewed,gom,us
+2006-04-27T04:18:28.140Z,0.338,30.078,10,5.2,mwc,242,65.9,,0.77,us,usp000efkj,2022-05-02T18:16:45.317Z,"17 km NNE of Kilembe, Uganda",earthquake,,,,,reviewed,us,hrv
+2006-04-27T17:54:42.390Z,0.333,30.058,10,4.4,mb,55,88,,0.87,us,usp000efmu,2014-11-07T01:28:55.571Z,"15 km NNE of Kilembe, Uganda",earthquake,,,,24,reviewed,us,us
+2006-05-29T15:30:37.850Z,0.343,30.114,23.9,4.9,mwc,85,82.7,,0.8,us,usp000ej88,2016-11-10T01:23:07.876Z,"17 km N of Kasese, Uganda",earthquake,,,,,reviewed,us,hrv
+2006-06-09T05:12:29.440Z,-3.489,28.115,10,3.5,mb,10,103,,1.07,us,usp000ejzy,2014-11-07T01:29:20.599Z,"114 km W of Uvira, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2006-07-03T18:05:03.280Z,-3.229,29.134,10,4.4,mb,12,106.3,,0.91,us,usp000emuz,2014-11-07T01:29:34.996Z,"18 km N of Uvira, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2006-11-03T00:29:27.000Z,-0.382,29.435,10,3.7,mb,9,112.4,,0.3,us,usp000ewgy,2014-11-07T01:30:44.448Z,"60 km SSE of Butembo, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2006-11-27T17:49:50.820Z,-1.508,29.123,10,3.8,mb,8,97.7,,0.93,us,usp000eyzf,2014-11-07T01:30:58.049Z,"11 km NE of Sake, Democratic Republic of the Congo",earthquake,,0,,1,reviewed,us,us
+2007-09-07T23:20:00.520Z,-2.239,28.73,10,4.6,mb,75,84,,0.76,us,usp000fmnq,2014-11-07T01:33:31.653Z,"29 km NNW of Kabare, Democratic Republic of the Congo",earthquake,,,,37,reviewed,us,us
+2008-02-03T07:34:12.180Z,-2.296,28.9,10,5.9,mwb,415,19.5,,0.78,us,usp000fy21,2022-07-13T22:29:52.942Z,"20 km N of Cyangugu, Rwanda",earthquake,,,,,reviewed,us,us
+2008-02-03T10:56:09.740Z,-2.403,28.973,10,5,mwc,127,26.9,,1.05,us,usp000fy26,2022-07-13T22:28:14.661Z,"11 km NE of Cyangugu, Rwanda",earthquake,,,,,reviewed,us,gcmt
+2008-02-03T11:00:07.080Z,-2.294,28.983,10,4.9,mb,59,87.4,,1.13,us,usp000fy27,2014-11-07T01:34:52.992Z,"22 km NNE of Cyangugu, Rwanda",earthquake,,,,23,reviewed,us,us
+2008-02-03T11:37:48.980Z,-2.503,28.981,10,4.8,mb,62,72.2,,0.78,us,usp000fy2a,2022-07-13T22:26:40.448Z,"8 km ESE of Cyangugu, Rwanda",earthquake,,,,18,reviewed,us,us
+2008-02-03T23:28:32.540Z,-2.812,28.879,10,4.1,mb,14,87.7,,0.58,us,usp000fy3r,2014-11-07T01:34:53.392Z,"28 km WNW of Cibitoke, Burundi",earthquake,,,,2,reviewed,us,us
+2008-02-04T00:24:35.140Z,-2.432,28.88,10,4.6,mb,64,72,,1.06,us,usp000fy3w,2014-11-07T01:34:53.428Z,"6 km NNW of Cyangugu, Rwanda",earthquake,,,,20,reviewed,us,us
+2008-02-05T17:29:08.340Z,-2.526,28.89,10,4.7,mb,21,102.4,,0.97,us,usp000fy8c,2014-11-07T01:34:54.186Z,"4 km SSW of Cyangugu, Rwanda",earthquake,,,,5,reviewed,us,us
+2008-02-05T22:54:44.910Z,-2.426,29.006,10,3.8,mb,17,49.6,,0.72,us,usp000fy8u,2014-11-07T01:34:54.228Z,"12 km ENE of Cyangugu, Rwanda",earthquake,,,,3,reviewed,us,us
+2008-02-11T23:59:57.240Z,-2.472,28.941,10,3.7,mb,10,91.7,,0.33,us,usp000fyq3,2014-11-07T01:34:56.112Z,"3 km ENE of Cyangugu, Rwanda",earthquake,,,,1,reviewed,us,us
+2008-02-14T02:07:46.770Z,-2.404,28.918,10,5.3,mwc,274,51.7,,0.75,us,usp000fyva,2022-07-13T22:08:15.501Z,"8 km N of Cyangugu, Rwanda",earthquake,,,,,reviewed,us,gcmt
+2008-02-15T04:04:53.050Z,-2.423,28.82,10,4.7,mb,83,101.3,,0.6,us,usp000fyyc,2014-11-07T01:34:57.230Z,"7 km NNW of Bukavu, Democratic Republic of the Congo",earthquake,,,,40,reviewed,us,us
+2008-02-27T02:07:59.140Z,-2.392,28.966,10,4.6,mb,18,112.5,,0.54,us,usp000g032,2014-11-07T01:35:04.323Z,"12 km NNE of Cyangugu, Rwanda",earthquake,,,,2,reviewed,us,us
+2008-05-11T10:34:10.370Z,0.478,29.591,10,4.4,mb,48,70.5,,1.06,us,usp000g63b,2014-11-07T01:35:56.327Z,"13 km E of Beni, Democratic Republic of the Congo",earthquake,,,,19,reviewed,us,us
+2008-06-08T17:13:05.440Z,-2.724,28.939,10,3.8,mb,7,104,,1.01,us,usp000g8xa,2014-11-07T01:36:16.530Z,"26 km S of Cyangugu, Rwanda",earthquake,,,,1,reviewed,us,us
+2008-06-19T07:25:16.980Z,-4.617,29.495,10,4.7,mb,68,97.7,,0.79,us,usp000ga2a,2014-11-07T01:36:23.193Z,"29 km NW of Mwandiga, Tanzania",earthquake,,0,,35,reviewed,us,us
+2008-10-05T00:02:12.630Z,-1.126,29.118,4,5.3,mwb,149,66,,1.17,us,usp000gjbn,2022-05-02T21:03:55.625Z,"50 km N of Sake, Democratic Republic of the Congo",earthquake,,,,,reviewed,us,us
+2008-10-05T00:32:10.620Z,-1.405,29.095,10,4,mb,6,123.6,,1,us,usp000gjbp,2014-11-07T01:37:23.780Z,"19 km NNE of Sake, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2008-11-03T21:48:15.940Z,-4.66,29.312,10,3.9,mb,9,123.2,,1.22,us,usp000gmw4,2014-11-07T01:37:40.618Z,"42 km NW of Kigoma, Tanzania",earthquake,,,,3,reviewed,us,us
+2008-11-14T01:40:12.050Z,-0.003,27.83,10,4.4,mb,20,88,,0.6,us,usp000gnn3,2014-11-07T01:37:44.028Z,"163 km W of Butembo, Democratic Republic of the Congo",earthquake,,,,7,reviewed,us,us
+2008-12-02T23:42:12.230Z,-0.123,28.002,10,3.9,mb,15,83.1,,1.14,us,usp000gpuk,2014-11-07T01:37:52.667Z,"146 km WSW of Butembo, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2009-01-10T09:02:02.350Z,-3.256,28.03,10,3.8,mb,16,89.1,,1.14,us,usp000gsek,2014-11-07T01:38:11.326Z,"119 km SW of Kabare, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2009-03-05T03:28:56.530Z,-0.243,29.55,10,4.2,mb,14,70.7,,0.81,us,usp000gumu,2014-11-07T01:38:32.346Z,"51 km SE of Butembo, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2009-03-25T05:03:22.380Z,-2.466,29.52,10,4,mb,25,105.4,,1.05,us,usp000gvd5,2014-11-07T01:38:37.723Z,"4 km WNW of Nzega, Rwanda",earthquake,,,,1,reviewed,us,us
+2009-07-13T10:15:41.180Z,-1.398,28.074,10,4.1,mb,21,91.1,,1.36,us,usp000gz6u,2014-11-07T01:39:19.174Z,"109 km W of Sake, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2009-11-05T03:36:18.600Z,-1.058,27.498,10,4.2,mb,18,76.1,,0.8,us,usp000h3rn,2014-11-07T01:40:04.426Z,"181 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2009-12-27T09:51:53.230Z,-1.174,27.745,10,4.3,mb,8,88.4,,1.37,us,usp000h5df,2014-11-07T01:40:18.902Z,"151 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2010-01-28T23:52:30.520Z,-0.901,29.198,10,4.9,mwc,114,45,,0.94,us,usp000h6r2,2022-07-16T01:36:50.782Z,"50 km W of Ntungamo, Uganda",earthquake,,,,,reviewed,us,gcmt
+2010-06-25T13:17:34.250Z,-2.764,28.676,10,3.7,mb,8,150.6,,0.95,us,usp000heh2,2014-11-07T01:41:44.183Z,"32 km SSW of Kabare, Democratic Republic of the Congo",earthquake,,,,2,reviewed,us,us
+2010-07-09T18:30:51.880Z,-0.397,29.558,10,4.4,mb,29,67.3,,1.02,us,usp000hf2p,2014-11-07T01:41:51.700Z,"54 km N of Ntungamo, Uganda",earthquake,,,,7,reviewed,us,us
+2010-08-17T01:36:49.860Z,-1.239,27.521,10,4.4,mb,32,76.1,,0.96,us,usp000hjaq,2014-11-07T01:42:15.429Z,"173 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,7,reviewed,us,us
+2010-09-25T06:15:30.270Z,-3.424,29.764,10,3.8,mb,5,114.2,,1.65,us,usp000hm57,2014-11-07T01:42:30.617Z,"11 km NE of Mwaro, Burundi",earthquake,,,,2,reviewed,us,us
+2011-04-03T04:37:59.500Z,-3.635,29.601,10,4.7,mb,54,70.2,,1.48,us,usp000hz64,2022-07-19T11:10:58.819Z,"17 km SW of Mwaro, Burundi",earthquake,,,,27,reviewed,us,us
+2012-02-02T02:54:03.230Z,-1.369,28.575,10,4.7,mb,37,91.3,,1.35,us,usp000je9f,2014-11-07T01:46:55.689Z,"56 km WNW of Sake, Democratic Republic of the Congo",earthquake,,,,9,reviewed,us,us
+2012-05-12T08:26:04.610Z,-4.282,28.918,10,4.4,mb,19,147.6,,0.84,us,usp000jkbg,2014-11-07T01:47:46.966Z,"67 km WSW of Rumonge, Burundi",earthquake,,,,4,reviewed,us,us
+2012-06-06T15:38:28.550Z,-1.188,27.103,10,4.8,mb,86,85.3,,0.89,us,usp000jme9,2022-05-03T17:05:37.222Z,"220 km W of Sake, Democratic Republic of the Congo",earthquake,,0,,32,reviewed,us,us
+2012-10-02T18:40:35.120Z,0.478,29.992,10,4.4,mb,21,69.6,,0.81,us,usp000jte4,2014-11-07T01:49:01.138Z,"13 km ENE of Margherita, Uganda",earthquake,,,,9,reviewed,us,us
+2012-10-14T16:25:53.960Z,-1.061,26.824,10,4.6,mb,29,84.8,,0.73,us,usp000jtzk,2020-09-21T18:26:43.389Z,"231 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,0,,4,reviewed,us,us
+2012-11-11T15:40:33.940Z,-0.35,28.237,10,4.1,mb,16,112.4,,1.23,us,usp000jvd3,2014-11-07T01:49:20.741Z,"129 km WSW of Butembo, Democratic Republic of the Congo",earthquake,,,,1,reviewed,us,us
+2012-11-15T00:00:01.800Z,-1.178,26.781,10,4.1,mb,28,83.8,,1.14,us,usp000jvkx,2014-11-07T01:49:22.878Z,"217 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,,,3,reviewed,us,us
+2012-11-20T16:23:49.100Z,-0.379,29.928,16.7,4.8,mb,36,78.6,,1,us,usp000jvvy,2022-05-03T15:59:04.587Z,"51 km N of Rukungiri, Uganda",earthquake,,5.2,,15,reviewed,us,us
+2012-12-24T14:35:31.500Z,-3.913,28.263,10,4.8,mb,98,56.5,,0.82,us,usp000jxc3,2014-11-07T01:49:39.434Z,"112 km WSW of Uvira, Democratic Republic of the Congo",earthquake,,,,26,reviewed,us,us
+2013-03-10T03:00:17.550Z,-4.348,29.123,10,4.5,mb,28,116.1,,0.87,us,usb000fi66,2022-07-24T19:57:41.990Z,"54 km SW of Rumonge, Burundi",earthquake,,,,6,reviewed,us,us
+2013-05-16T09:51:07.770Z,-0.403,27.297,10.1,4.2,mb,13,122,,1.28,us,usp000k0qr,2014-11-07T01:50:48.926Z,"230 km WSW of Butembo, Democratic Republic of the Congo",earthquake,,3.1,,2,reviewed,us,us
+2013-07-05T13:42:21.200Z,-0.191,29.809,10,4.6,mb,14,88,,0.54,us,usp000k1r1,2014-11-07T01:51:13.733Z,"48 km SSW of Kilembe, Uganda",earthquake,,,,7,reviewed,us,us
+2013-07-30T03:34:19.630Z,0.445,30.17,15.3,4.4,mb,28,69,,1.26,us,usb000izup,2014-11-07T01:51:21.486Z,"26 km SSW of Fort Portal, Uganda",earthquake,,5,,16,reviewed,us,us
+2013-09-18T01:12:22.790Z,-4.5039,29.4227,15.65,4,mb,,116,4.092,0.47,us,usb000jyfg,2013-12-09T21:11:07.000Z,"44 km NW of Mwandiga, Tanzania",earthquake,,5.5,0.26,,reviewed,us,us
+2013-11-30T19:20:15.170Z,-1.0586,26.8485,5.19,5.3,mwb,,33,3.915,0.67,us,usb000l8iv,2022-05-03T16:35:03.233Z,"232 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,3.6,0.063,,reviewed,us,us
+2013-12-01T08:14:02.120Z,-0.9553,26.7927,10,4.9,mb,,36,3.96,0.71,us,usb000l8qf,2022-05-03T16:35:08.464Z,"240 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,1.8,0.062,,reviewed,us,us
+2013-12-02T18:54:02.070Z,-1.3006,26.8426,10,4.6,mb,,95,3.956,0.74,us,usb000lbzd,2020-07-10T18:25:46.223Z,"208 km NNE of Kindu, Democratic Republic of the Congo",earthquake,,1.9,0.222,,reviewed,us,us
+2014-07-12T22:02:25.430Z,-3.8115,29.3096,11.53,4.3,mb,,114,3.493,1.38,us,usb000rwis,2014-10-10T08:02:15.000Z,"22 km NW of Rumonge, Burundi",earthquake,,5,0.201,7,reviewed,us,us
+2014-10-31T01:05:02.410Z,0.4918,29.9951,10,4.5,mb,,70,1.316,1.2,us,usb000srwl,2022-07-27T06:19:08.077Z,"14 km NE of Margherita, Uganda",earthquake,9.4,1.9,0.102,44,reviewed,us,us
+2014-11-20T23:56:01.640Z,-0.2425,29.5273,10,4.4,mb,,71,1.262,0.93,us,usc000t3r9,2015-02-18T03:30:48.040Z,"49 km SSE of Butembo, Democratic Republic of the Congo",earthquake,10.1,1.9,0.149,14,reviewed,us,us
+2015-02-13T08:35:23.790Z,-0.2766,29.6975,10,4.4,mb,,93,1.089,1.07,us,usb000tqcl,2022-07-28T00:59:27.521Z,"63 km SW of Kilembe, Uganda",earthquake,7.3,2,0.169,10,reviewed,us,us
+2015-05-21T13:19:10.450Z,-3.5358,29.9192,10,4.4,mb,,108,3.027,1.23,us,us20002kzi,2015-07-29T01:35:30.040Z,"12 km S of Gitega, Burundi",earthquake,10.4,1.9,0.311,3,reviewed,us,us
+2015-06-29T21:00:41.980Z,-2.7532,27.7946,10,4.2,mb,,117,3.636,0.92,us,us20002xfe,2015-09-02T22:37:24.040Z,"114 km WSW of Kabare, Democratic Republic of the Congo",earthquake,12.2,2,0.176,9,reviewed,us,us
+2015-08-07T01:25:02.540Z,-2.1412,28.8973,11,5.8,mww,,20,2.392,0.87,us,us10002zzn,2022-07-31T22:46:21.357Z,"37 km N of Cyangugu, Rwanda",earthquake,8.4,1.8,,,reviewed,us,us
+2015-08-07T01:28:37.120Z,-2.0913,28.9515,10,5.5,mwc,,28,2.319,0.77,us,us10002zzr,2022-07-31T22:47:16.574Z,"43 km N of Cyangugu, Rwanda",earthquake,6.1,1.8,,,reviewed,us,gcmt
+2015-08-07T01:50:26.770Z,-2.2754,28.8493,10,4.3,mb,,110,2.515,1.27,us,us100034pp,2022-08-01T02:02:36.752Z,"23 km N of Bukavu, Democratic Republic of the Congo",earthquake,9.6,1.9,0.138,15,reviewed,us,us
+2015-09-12T12:32:04.290Z,0.3971,29.664,18.36,4.5,mb,,101,1.462,0.38,us,us20003npt,2022-08-01T09:04:26.796Z,"23 km ESE of Beni, Democratic Republic of the Congo",earthquake,9.5,3.8,0.163,11,reviewed,us,us
+2015-11-04T02:01:32.050Z,-3.4688,28.3096,10,4.5,mb,,100,3.741,0.87,us,us10003v8c,2016-01-30T02:11:05.040Z,"92 km W of Uvira, Democratic Republic of the Congo",earthquake,4.5,1.9,0.128,18,reviewed,us,us
+2015-11-25T09:38:12.570Z,-0.1635,29.7271,10,4.7,mb,,85,1.1,0.7,us,us100041ch,2022-08-01T20:19:40.507Z,"51 km SW of Kilembe, Uganda",earthquake,7.2,1.8,0.152,13,reviewed,us,us
+2015-12-19T13:26:05.280Z,-3.7944,28.5538,10,4.8,mb,,73,3.849,0.78,us,us100048cu,2016-03-12T02:29:17.040Z,"78 km SW of Uvira, Democratic Republic of the Congo",earthquake,4,1.9,0.103,29,reviewed,us,us
+2016-02-04T12:43:59.710Z,-1.5703,28.4181,10,5.1,mb,,85,2.511,1.06,us,us20004x2l,2022-08-02T08:32:49.533Z,"69 km W of Sake, Democratic Republic of the Congo",earthquake,9,1.8,0.067,72,reviewed,us,us
+2016-06-11T01:05:16.950Z,-0.5957,29.4435,10,4,mb,,113,1.294,0.9,us,us200064uy,2016-08-25T01:22:51.040Z,"39 km NW of Ntungamo, Uganda",earthquake,9.7,2,0.365,2,reviewed,us,us
+2016-09-10T12:27:33.410Z,-1.0355,31.6181,40,5.9,mww,,21,5.634,0.88,us,us10006nkx,2022-05-03T17:58:43.815Z,"27 km ENE of Nsunga, Tanzania",earthquake,8.9,1.9,,,reviewed,us,us
+2016-09-23T15:07:46.650Z,-2.6653,28.9891,10,4.5,mb,,99,2.694,0.61,us,us10006txj,2016-12-14T03:17:44.040Z,"Lac Kivu region, Democratic Republic of the Congo",earthquake,11.2,2,0.156,12,reviewed,us,us
+2016-09-23T16:11:56.610Z,-2.6498,29.0598,10,4.8,mb,,92,2.636,0.93,us,us10006s1p,2020-07-10T15:10:03.025Z,"24 km SE of Cyangugu, Rwanda",earthquake,8.7,1.9,0.082,46,reviewed,us,us
+2016-10-24T23:30:00.710Z,-2.6056,29.0218,10,4.7,mb,,93,2.627,0.86,us,us20007gih,2022-05-03T04:08:30.053Z,"18 km SE of Cyangugu, Rwanda",earthquake,11.5,1.9,0.086,41,reviewed,us,us
+2017-04-10T08:17:33.660Z,-0.1582,29.8514,15.08,4.5,mb,,159,0.99,0.69,us,us10008ili,2017-07-05T18:09:55.040Z,"43 km SSW of Kilembe, Uganda",earthquake,8.9,5.9,0.128,18,reviewed,us,us
+2017-04-29T22:28:30.440Z,-1.1579,31.5973,10.12,4.3,mb,,91,1.021,0.62,us,us10008m3k,2017-07-21T02:32:12.040Z,"22 km ENE of Kyaka, Tanzania",earthquake,5.7,5.5,0.168,10,reviewed,us,us
+2017-06-18T13:54:26.020Z,-4.2347,30.4912,10,4.4,mb,,82,3.617,0.54,us,us20009p9p,2017-08-23T16:35:48.040Z,"57 km NE of Kasulu, Tanzania",earthquake,11.3,2,0.239,5,reviewed,us,us
+2017-07-30T07:02:29.170Z,-0.22,29.7824,10,5.3,mww,,26,1.028,0.62,us,us2000a2mp,2022-08-07T13:13:09.235Z,"52 km SSW of Kilembe, Uganda",earthquake,3,1.8,0.08,15,reviewed,us,us
+2017-09-15T17:45:46.800Z,-2.72,28.8046,12.23,5,mb,,45,2.856,0.67,us,us2000anhd,2022-08-07T17:34:11.686Z,"24 km S of Kabare, Democratic Republic of the Congo",earthquake,8.5,4.2,0.053,112,reviewed,us,us
+2017-11-30T21:48:35.640Z,-2.6188,28.7075,10,5,mww,,65,8.667,0.62,us,us1000bjky,2022-05-03T19:52:37.716Z,"16 km SW of Kabare, Democratic Republic of the Congo",earthquake,4,1.8,0.098,10,reviewed,us,us
+2017-12-02T17:20:26.390Z,-2.6951,28.6601,12.33,4.8,mww,,53,8.727,0.74,us,us1000bkbx,2018-02-20T09:06:12.040Z,"26 km SSW of Kabare, Democratic Republic of the Congo",earthquake,8.6,4.4,0.103,9,reviewed,us,us
+2017-12-05T00:22:49.690Z,-2.6583,28.967,10,4.6,mb,,68,8.419,0.73,us,us1000bl7t,2018-02-28T02:32:26.040Z,"20 km SSE of Cyangugu, Rwanda",earthquake,5.1,1.8,0.087,39,reviewed,us,us
+2018-01-02T19:49:20.890Z,-3.2108,28.7226,10,4.5,mb,,99,3.282,1.19,us,us2000cka1,2018-03-23T23:16:48.040Z,"50 km WNW of Uvira, Democratic Republic of the Congo",earthquake,9.3,1.7,0.204,7,reviewed,us,us
+2018-01-09T09:01:00.810Z,-1.6551,28.4483,10,4.5,mb,,87,2.517,0.54,us,us2000cn7d,2018-04-03T01:40:23.040Z,"66 km W of Sake, Democratic Republic of the Congo",earthquake,9.1,1.9,0.163,11,reviewed,us,us
+2018-01-20T16:58:01.660Z,-3.5692,28.5127,10,4.3,mb,,88,3.692,0.68,us,us1000cdrk,2018-04-10T01:11:49.040Z,"72 km WSW of Uvira, Democratic Republic of the Congo",earthquake,5.7,1.9,0.153,12,reviewed,us,us
+2018-09-02T05:52:22.870Z,-0.5439,29.5004,10,3.8,mb,,195,1.239,0.26,us,us2000h6yb,2018-11-07T18:37:09.040Z,"41 km NNW of Ntungamo, Uganda",earthquake,13.8,1.9,0.508,1,reviewed,us,us
+2018-09-02T23:55:52.490Z,-2.9974,29.4579,10,4.3,mb,,94,2.701,1.03,us,us2000hckj,2018-11-07T18:37:13.040Z,"11 km NE of Bubanza, Burundi",earthquake,6.5,1.9,0.239,6,reviewed,us,us
+2018-10-01T05:58:04.160Z,-0.9071,29.265,10,4.4,mb,,80,1.504,0.66,us,us1000h7mc,2018-12-14T20:32:42.040Z,"42 km W of Ntungamo, Uganda",earthquake,6.4,1.9,0.179,9,reviewed,us,us
+2018-12-01T18:36:49.210Z,-0.0184,29.4658,12.75,4.3,mb,,97,1.398,1.13,us,us1000i3l4,2019-02-09T19:02:23.040Z,"26 km SE of Butembo, Democratic Republic of the Congo",earthquake,8.1,5.8,0.239,5,reviewed,us,us
+2019-02-12T17:38:47.590Z,-0.0206,29.7241,10,3.9,mb,,108,1.166,0.76,us,us2000jgyp,2019-05-01T22:00:36.040Z,"40 km SW of Kilembe, Uganda",earthquake,8,1.9,0.297,3,reviewed,us,us
+2019-04-07T03:17:04.097Z,-0.07,28.1972,10,4.3,mb,,91,2.595,1.05,us,us700036et,2019-06-18T15:50:39.040Z,"124 km W of Butembo, Democratic Republic of the Congo",earthquake,6.6,1.9,0.189,8,reviewed,us,us
+2019-04-18T08:18:27.717Z,-0.7617,27.4792,10,4.5,mb,,78,3.262,1.35,us,us700038ew,2019-06-26T20:54:49.040Z,"195 km WNW of Sake, Democratic Republic of the Congo",earthquake,9.9,1.9,0.116,22,reviewed,us,us
+2019-04-19T08:56:46.548Z,-2.8428,28.6319,10,4.5,mb,,119,3.063,0.78,us,us70003cjl,2019-06-26T20:54:55.040Z,"42 km SSW of Kabare, Democratic Republic of the Congo",earthquake,10.9,1.9,0.181,9,reviewed,us,us
+2019-08-05T09:37:13.546Z,-0.8645,29.479,10,4.4,mb,,93,7.259,0.78,us,us6000510l,2019-10-19T21:42:14.040Z,"19 km W of Ntungamo, Uganda",earthquake,13,1.9,0.143,14,reviewed,us,us
+2019-08-06T16:58:31.114Z,0.0359,30.1201,10,4.6,mb,,79,6.225,0.88,us,us600051g7,2020-01-28T22:50:30.510Z,"16 km SSE of Kasese, Uganda",earthquake,11.1,1.9,0.117,22,reviewed,us,us
+2019-09-03T19:21:34.258Z,-3.3633,28.5415,10,4.3,mb,,98,3.513,1.1,us,us70005bxe,2019-11-30T19:37:22.040Z,"66 km W of Uvira, Democratic Republic of the Congo",earthquake,8.6,1.9,0.111,26,reviewed,us,us
+2019-09-05T18:50:05.851Z,-1.9391,26.9571,10,5,mb,,104,4.006,0.84,us,us70005ch2,2020-07-10T17:46:46.405Z,"159 km NE of Kindu, Democratic Republic of the Congo",earthquake,6.4,1.9,0.078,53,reviewed,us,us
+2019-09-05T23:04:57.996Z,-1.9889,27.1195,10,4.7,mb,,77,3.871,1,us,us70005clm,2020-07-10T17:46:56.537Z,"169 km NE of Kindu, Democratic Republic of the Congo",earthquake,8.9,1.9,0.074,56,reviewed,us,us
+2019-10-30T20:55:27.193Z,-2.7816,28.4691,10,5.1,mww,,45,8.93,1.09,us,us700061cc,2025-12-22T18:20:26.803Z,"47 km SW of Kabare, Democratic Republic of the Congo",earthquake,8.9,1.8,0.098,10,reviewed,us,us
+2019-10-30T20:57:51.097Z,-2.9338,28.598,10,4.9,mb,,104,8.833,0.89,us,us600068q0,2025-12-22T18:21:32.503Z,"52 km SSW of Kabare, Democratic Republic of the Congo",earthquake,7,1.9,0.097,33,reviewed,us,us
+2019-12-03T10:25:41.972Z,0.2825,30.3405,10,4.4,mb,,79,0.964,0.69,us,us60006q96,2020-02-29T19:52:51.040Z,"16 km NW of Kamwenge, Uganda",earthquake,9.1,1.9,0.139,15,reviewed,us,us
+2020-01-08T17:54:36.137Z,0.5503,29.6288,10,4.5,mb,,100,1.594,1.05,us,us60007cu5,2020-04-02T21:27:26.040Z,"18 km ENE of Beni, Democratic Republic of the Congo",earthquake,8.7,1.9,0.204,7,reviewed,us,us
+2020-01-11T17:04:27.492Z,-2.3827,28.8008,10,4.3,mb,,85,2.622,0.9,us,us60007dvj,2020-04-02T21:27:30.040Z,"12 km N of Kabare, Democratic Republic of the Congo",earthquake,6.4,1.9,0.16,12,reviewed,us,us
+2020-01-28T22:32:06.045Z,-0.2431,29.7646,10,4.6,mb,,80,1.036,0.99,us,us60007ik2,2022-08-08T18:10:47.194Z,"56 km SSW of Kilembe, Uganda",earthquake,7.1,1.9,0.112,24,reviewed,us,us
+2020-01-30T13:01:10.394Z,-0.042,30.1568,24.43,4.4,mb,,69,0.804,1.39,us,us70007kyn,2020-04-18T22:10:29.040Z,"26 km SSE of Kasese, Uganda",earthquake,7.7,5.2,0.154,13,reviewed,us,us
+2020-03-19T22:35:49.102Z,-0.792,29.7626,10,4.3,mb,,85,0.993,0.53,us,us70008gzp,2020-06-06T20:53:55.040Z,"16 km NE of Ntungamo, Uganda",earthquake,7.1,1.9,0.178,9,reviewed,us,us
+2020-06-21T13:56:49.047Z,-1.5756,28.549,10,4.2,mb,,89,2.393,0.88,us,us6000ag4b,2020-08-30T00:01:01.040Z,"55 km W of Sake, Democratic Republic of the Congo",earthquake,9.3,1.9,0.16,11,reviewed,us,us
+2020-07-16T01:23:20.653Z,-2.6865,29.1019,10,4.4,mb,,75,2.638,0.58,us,us7000apfj,2020-09-26T16:58:31.040Z,"22 km N of Cibitoke, Burundi",earthquake,6.6,1.8,0.109,24,reviewed,us,us
+2020-08-06T02:17:46.837Z,0.1063,29.9632,10,4.4,mb,,94,1.046,0.64,us,us6000bdc0,2020-10-21T22:04:11.040Z,"11 km SSW of Kilembe, Uganda",earthquake,5.7,1.9,0.179,9,reviewed,us,us
+2020-08-20T11:23:30.170Z,-0.3979,28.4953,10,4.6,mb,,78,2.252,0.9,us,us6000bhmg,2020-10-31T19:06:11.040Z,"106 km SW of Butembo, Democratic Republic of the Congo",earthquake,5.1,1.9,0.129,18,reviewed,us,us
+2020-08-24T10:13:56.090Z,-3.7613,29.2592,10,4.2,mb,,99,3.468,1.04,us,us7000bec2,2020-10-31T19:06:35.040Z,"30 km NW of Rumonge, Burundi",earthquake,9.7,1.9,0.16,11,reviewed,us,us
+2020-08-24T14:13:13.708Z,-3.7469,29.2579,10,5,mb,,93,3.456,0.79,us,us6000bjrj,2021-01-24T18:09:09.282Z,"32 km NW of Rumonge, Burundi",earthquake,8.3,1.9,0.066,73,reviewed,us,us
+2020-12-08T07:28:31.138Z,-3.5964,29.4248,10.97,4.3,mb,,98,3.251,0.72,us,us7000cqbi,2021-02-12T22:41:30.040Z,"24 km SSE of Bujumbura, Burundi",earthquake,10.6,5.4,0.177,10,reviewed,us,us
+2021-01-24T17:07:04.619Z,-3.4673,29.5045,10,4.5,mb,,87,3.101,1.27,us,us7000d2xs,2021-04-13T17:07:26.040Z,"18 km ESE of Bujumbura, Burundi",earthquake,7.1,1.9,0.135,16,reviewed,us,us
+2021-02-09T23:25:47.181Z,-1.1904,28.6712,10,4.5,mb,,83,2.147,0.74,us,us6000dg2e,2021-05-24T12:25:33.321Z,"59 km NW of Sake, Democratic Republic of the Congo",earthquake,5.2,1.9,0.121,20,reviewed,us,us
+2021-02-25T14:29:44.076Z,-1.9861,28.7561,10,4.4,mb,,102,2.411,1.03,us,us7000ddjt,2021-05-04T14:17:16.040Z,"55 km SW of Sake, Democratic Republic of the Congo",earthquake,9.7,2,0.123,19,reviewed,us,us
+2021-03-24T11:33:48.202Z,-3.3306,28.3115,10,4.6,mb,,74,3.637,0.56,us,us6000dw0n,2021-06-02T15:22:34.040Z,"92 km W of Uvira, Democratic Republic of the Congo",earthquake,9.4,1.9,0.1,31,reviewed,us,us
+2021-05-22T23:54:55.994Z,-1.7503,29.2111,10,4.3,mb,,111,1.905,1.29,us,us6000ef7f,2021-07-31T22:08:41.040Z,"7 km SW of Gisenyi, Rwanda",earthquake,8,2,0.177,9,reviewed,us,us
+2021-05-23T11:51:53.651Z,-1.9652,29.6147,10,4.2,mb,,96,1.759,1.16,us,us6000efgx,2021-07-31T22:08:51.040Z,"19 km NW of Gitarama, Rwanda",earthquake,8.1,2,0.215,6,reviewed,us,us
+2021-05-23T13:07:55.737Z,-1.8121,29.3863,10,4.5,mb,,86,1.808,0.49,us,us6000efgf,2021-07-31T22:08:53.040Z,"18 km SE of Gisenyi, Rwanda",earthquake,10,1.9,0.118,22,reviewed,us,us
+2021-05-23T16:52:25.489Z,-1.828,29.4389,13.06,4.3,mb,,73,1.78,0.39,us,us7000e5ke,2021-07-31T22:08:57.040Z,"24 km SE of Gisenyi, Rwanda",earthquake,8.7,5.9,0.137,15,reviewed,us,us
+2021-05-23T20:38:56.907Z,-1.6519,29.2368,10,4.5,mb,,56,1.827,1.14,us,us7000e5l6,2021-07-31T22:09:01.040Z,"2 km NNE of Goma, Democratic Republic of the Congo",earthquake,5.8,1.9,0.121,21,reviewed,us,us
+2021-05-23T22:52:56.472Z,-1.6468,29.4069,10,4.3,mb,,85,1.687,0.54,us,us7000e5m1,2021-07-31T22:09:04.040Z,"17 km ENE of Gisenyi, Rwanda",earthquake,6.2,1.9,0.148,13,reviewed,us,us
+2021-05-24T08:37:25.450Z,-1.5912,29.2293,10,4.7,mb,,72,1.8,0.94,us,us6000efhz,2021-07-31T22:09:13.040Z,"9 km N of Goma, Democratic Republic of the Congo",earthquake,7.9,1.9,0.129,18,reviewed,us,us
+2021-05-25T08:19:55.526Z,-1.7687,29.3804,10,4.5,mb,,107,1.784,0.67,us,us6000efl0,2021-07-31T22:09:34.040Z,"15 km ESE of Gisenyi, Rwanda",earthquake,10.6,1.9,0.241,5,reviewed,us,us
+2021-05-25T09:03:00.255Z,-1.5761,29.4806,10,4.7,mb,,82,1.586,0.58,us,us7000e622,2022-01-05T07:14:42.773Z,"19 km WSW of Musanze, Rwanda",earthquake,4.9,1.9,0.087,40,reviewed,us,us
+2021-05-25T09:41:17.053Z,-1.7569,29.3197,10,4.4,mb,,86,1.824,0.49,us,us7000e625,2021-07-31T22:09:35.040Z,"9 km SE of Gisenyi, Rwanda",earthquake,8.1,1.6,0.11,24,reviewed,us,us
+2021-05-25T10:40:45.451Z,-1.7467,29.3986,10,4.3,mb,,86,1.756,0.59,us,us6000efkg,2021-07-31T22:09:35.040Z,"16 km ESE of Gisenyi, Rwanda",earthquake,9.3,1.9,0.16,11,reviewed,us,us
+2021-05-25T12:16:27.112Z,-1.756,29.2667,10,4.4,mb,,71,1.865,0.44,us,us6000efk6,2021-07-31T22:09:36.040Z,"5 km S of Gisenyi, Rwanda",earthquake,4.6,1.9,0.12,20,reviewed,us,us
+2021-05-25T20:38:11.781Z,-1.6688,29.4184,10,4.3,mb,,85,1.692,0.79,us,us7000e685,2021-07-31T22:09:45.040Z,"18 km ENE of Gisenyi, Rwanda",earthquake,8.7,1.9,0.143,14,reviewed,us,us
+2021-05-26T03:46:31.637Z,-1.7237,29.4006,10,4.7,mb,,73,1.74,0.81,us,us7000e6aq,2021-07-31T22:09:50.040Z,"16 km E of Gisenyi, Rwanda",earthquake,8.6,1.5,0.102,29,reviewed,us,us
+2021-05-26T07:01:18.009Z,-1.8137,29.4858,10,4.2,mb,,163,1.736,0.98,us,us6000eew7,2021-07-31T22:09:53.040Z,"28 km ESE of Gisenyi, Rwanda",earthquake,5.9,2,0.186,8,reviewed,us,us
+2021-05-26T08:51:59.394Z,-1.7157,29.2514,10,4.4,mb,,86,1.853,0.75,us,us7000e6c8,2021-07-31T22:09:54.040Z,"1 km SSW of Gisenyi, Rwanda",earthquake,9.7,1.9,0.179,9,reviewed,us,us
+2021-05-26T11:41:18.641Z,-1.6522,29.3085,10,4.4,mb,,85,1.769,0.33,us,us6000egkc,2021-07-31T22:09:55.040Z,"8 km NE of Gisenyi, Rwanda",earthquake,7.3,1.6,0.102,28,reviewed,us,us
+2021-05-26T16:07:17.587Z,-1.7731,29.304,10,4.5,mb,,176,1.846,0.73,us,us6000egl6,2021-07-31T22:09:58.040Z,"9 km SE of Gisenyi, Rwanda",earthquake,13.5,2,0.171,10,reviewed,us,us
+2021-05-26T17:32:56.193Z,-1.7394,29.2551,12.65,4.5,mb,,93,1.864,0.48,us,us6000egl4,2021-07-31T22:10:00.040Z,"4 km S of Gisenyi, Rwanda",earthquake,11.5,5.3,0.163,11,reviewed,us,us
+2021-05-26T23:19:33.292Z,-1.7819,29.3238,12.91,4.5,mb,,110,1.836,0.47,us,us6000eexu,2021-07-31T22:10:05.040Z,"11 km SE of Gisenyi, Rwanda",earthquake,11.7,5.3,0.115,22,reviewed,us,us
+2021-05-26T23:26:58.082Z,-1.855,29.2957,12.86,4.5,mb,,131,1.905,1.15,us,us6000eglj,2021-07-31T22:10:06.040Z,"17 km SSE of Gisenyi, Rwanda",earthquake,9.9,2.9,0.136,16,reviewed,us,us
+2021-05-27T03:23:52.234Z,-1.6168,29.3872,10,4.3,mb,,88,1.685,1.34,us,us6000ef04,2021-07-31T22:10:11.040Z,"17 km ENE of Gisenyi, Rwanda",earthquake,5,1.9,0.125,18,reviewed,us,us
+2021-05-27T09:33:54.317Z,-1.7149,29.3823,10,4.5,mb,,86,1.749,1.29,us,us6000ef10,2021-07-31T22:10:13.040Z,"14 km E of Gisenyi, Rwanda",earthquake,9.7,1.9,0.121,20,reviewed,us,us
+2021-06-09T13:36:22.396Z,-3.1432,28.1413,10,4.3,mb,,150,3.62,0.34,us,us7000eczw,2021-08-24T21:33:07.040Z,"101 km SW of Kabare, Democratic Republic of the Congo",earthquake,9.3,1.9,0.201,7,reviewed,us,us
+2021-06-10T08:54:17.373Z,-3.1003,28.2745,10,5,mww,,69,3.495,0.46,us,us7000ebng,2025-12-22T19:02:25.960Z,"88 km SW of Kabare, Democratic Republic of the Congo",earthquake,9.7,1.8,0.098,10,reviewed,us,us
+2021-09-07T01:48:21.527Z,-2.1446,28.8862,10,4.5,mb,,75,2.403,0.54,us,us7000f8r0,2021-11-17T17:26:21.040Z,"37 km N of Cyangugu, Rwanda",earthquake,8.6,1.8,0.131,17,reviewed,us,us
+2021-10-16T00:23:26.733Z,-0.3396,29.7956,10,4.7,mb,,60,0.978,0.53,us,us6000fv2x,2021-12-25T22:58:37.040Z,"57 km NNW of Rukungiri, Uganda",earthquake,6.8,1.9,0.085,42,reviewed,us,us
+2021-10-16T04:46:05.740Z,-0.3636,29.9453,10,4.5,mb,,160,0.827,0.66,us,us6000fw7d,2021-12-25T22:58:54.040Z,"52 km N of Rukungiri, Uganda",earthquake,8.3,1.9,0.27,4,reviewed,us,us
+2021-11-15T01:38:54.633Z,-4.0251,30.1834,10,4.1,mb,,112,3.445,0.64,us,us7000fvgi,2022-01-22T20:52:07.040Z,"23 km ESE of Rutana, Burundi",earthquake,8,2,0.165,10,reviewed,us,us
+2022-02-14T04:04:51.026Z,-4.3271,29.3112,10,4.7,mb,,54,3.965,0.76,us,us7000gkp1,2022-04-30T14:18:10.040Z,"41 km SSW of Rumonge, Burundi",earthquake,9.1,1.8,0.076,52,reviewed,us,us
+2022-03-06T08:59:49.382Z,-0.1771,29.8078,10,4.6,mb,,66,1.021,0.48,us,us6000h2ih,2022-05-14T21:52:18.040Z,"47 km SSW of Kilembe, Uganda",earthquake,6.4,1.9,0.122,21,reviewed,us,us
+2022-06-24T20:14:10.684Z,-2.7224,28.6794,10,4.4,mb,52,44,2.944,0.88,us,us7000hk1v,2022-08-28T03:21:14.040Z,"27 km SSW of Kabare, Democratic Republic of the Congo",earthquake,8,1.8,0.095,36,reviewed,us,us
+2023-02-19T04:03:37.287Z,-1.2699,28.1163,10,4.6,mb,25,90,2.704,0.81,us,us6000jq1e,2023-04-29T21:57:11.040Z,"108 km WNW of Sake, Democratic Republic of the Congo",earthquake,11.21,1.927,0.114,23,reviewed,us,us
+2023-02-28T09:30:19.645Z,0.2079,30.0065,10,4.6,mb,9,143,1.087,1.16,us,us7000ji5y,2023-05-08T01:59:53.040Z,"1 km NW of Kilembe, Uganda",earthquake,10.33,1.762,0.273,4,reviewed,us,us
+2023-03-04T08:54:56.092Z,0.3734,30.1049,10,4.5,mb,28,54,1.157,0.59,us,us7000jit7,2023-05-08T02:00:44.040Z,"21 km N of Kasese, Uganda",earthquake,6.75,1.735,0.132,17,reviewed,us,us
+2023-03-04T11:32:48.843Z,0.3911,30.0989,10,4.4,mb,14,65,1.175,0.59,us,us7000jitj,2023-05-08T02:00:45.040Z,"23 km N of Kasese, Uganda",earthquake,5.66,1.948,0.218,6,reviewed,us,us
+2023-03-27T18:20:35.388Z,-0.6618,29.3042,14.775,4.7,mb,45,66,1.435,1.12,us,us6000k03l,2023-06-03T22:06:02.040Z,"Lake Edward region, Congo-Uganda",earthquake,8.31,3.849,0.089,44,reviewed,us,us
+2023-04-12T18:59:00.954Z,-1.4425,27.0631,10.151,4.4,mb,22,88,3.768,0.83,us,us6000k5i4,2023-06-17T21:37:01.040Z,"208 km NE of Kindu, Democratic Republic of the Congo",earthquake,9.92,4.972,0.17,10,reviewed,us,us
+2023-05-30T13:44:41.289Z,-3.3228,28.9229,10,4.4,mb,10,176,3.255,0.57,us,us7000k6n2,2023-08-05T22:07:58.040Z,"25 km WNW of Uvira, Democratic Republic of the Congo",earthquake,8.56,1.804,0.309,3,reviewed,us,us
+2023-06-15T09:04:04.318Z,-1.0046,29.254,10,4.6,mb,37,71,1.537,0.77,us,us7000k8m5,2023-08-21T04:18:58.040Z,"46 km WSW of Ntungamo, Uganda",earthquake,9.79,1.88,0.116,22,reviewed,us,us
+2023-07-07T22:00:33.321Z,-2.1729,28.9431,10,4.4,mb,22,138,2.378,0.4,us,us7000kfqb,2023-09-09T21:55:19.040Z,"34 km N of Cyangugu, Rwanda",earthquake,5.51,1.937,0.179,9,reviewed,us,us
+2023-08-24T22:01:04.441Z,-0.3355,29.7329,10,4.6,mb,40,93,1.04,0.75,us,us7000kqt1,2023-10-28T19:15:37.040Z,"60 km NNW of Rukungiri, Uganda",earthquake,11.02,1.905,0.098,31,reviewed,us,us
+2023-09-09T18:21:29.419Z,-1.3591,26.6854,10,4.6,mb,120,51,4.121,0.64,us,us7000kun1,2023-11-17T19:47:52.040Z,"194 km NNE of Kindu, Democratic Republic of the Congo",earthquake,8.62,1.797,0.057,103,reviewed,us,us
+2023-09-24T14:21:54.966Z,-2.351,29.4757,10,4.5,mb,22,89,2.147,1.08,us,us7000kxts,2025-01-12T16:31:00.690Z,"16 km NNW of Nzega, Rwanda",earthquake,5.72,1.898,0.135,16,reviewed,us,us
+2024-01-19T05:24:28.976Z,-0.0016,29.6423,10,4.5,mb,13,93,1.248,0.61,us,us6000m593,2024-03-29T17:37:55.040Z,"42 km ESE of Butembo, Democratic Republic of the Congo",earthquake,9.3,1.948,0.171,10,reviewed,us,us
+2024-08-03T03:17:01.697Z,0.3286,30.4899,10,4.5,mb,22,71,0.957,1.27,us,us6000nhsp,2024-10-11T19:39:09.040Z,"16 km NNE of Kamwenge, Uganda",earthquake,4.07,1.923,0.144,14,reviewed,us,us
+2024-11-30T10:59:26.447Z,-0.8176,29.2153,10,4.4,mb,20,71,1.538,0.9,us,us7000nygg,2025-02-02T00:55:39.040Z,"48 km W of Ntungamo, Uganda",earthquake,11.51,1.924,0.148,13,reviewed,us,us
+2025-01-04T14:51:49.837Z,-3.0587,29.2209,10,4.5,mb,36,128,2.873,0.59,us,us6000phuy,2025-03-17T21:34:36.040Z,"19 km W of Bubanza, Burundi",earthquake,10.51,1.889,0.102,28,reviewed,us,us
+2025-02-13T11:16:10.105Z,-0.2079,29.6923,10,4.7,mb,45,55,1.117,0.76,us,us7000pdcx,2025-05-02T16:26:16.040Z,"57 km SW of Kilembe, Uganda",earthquake,6.86,1.895,0.09,37,reviewed,us,us
+2025-04-05T15:13:06.733Z,-2.0202,29.1022,10,4.3,mb,21,85,8.195,0.57,us,us6000q49k,2025-06-09T13:38:41.040Z,"27 km W of Kibuye, Rwanda",earthquake,11.48,1.939,0.142,15,reviewed,us,us
+2025-05-04T18:11:37.596Z,-0.5706,29.4792,10,4.5,mb,50,54,1.259,0.75,us,us7000px4g,2025-07-12T16:30:45.040Z,"39 km NNW of Ntungamo, Uganda",earthquake,8.61,1.29,0.085,41,reviewed,us,us
+2025-07-28T13:38:20.566Z,-3.7409,29.2421,10,5.2,mww,83,79,3.458,0.77,us,us6000qvm7,2025-10-11T20:57:27.040Z,"33 km NW of Rumonge, Burundi",earthquake,9.02,1.846,0.11,8,reviewed,us,us
+2025-11-01T17:30:35.711Z,-2.5272,28.9942,10,4.4,mb,30,88,8.37,0.65,us,us6000rpey,2026-01-27T17:59:10.040Z,"10 km ESE of Cyangugu, Rwanda",earthquake,9.58,1.825,0.112,23,reviewed,us,us
+2025-11-24T12:22:10.853Z,-2.6593,28.6544,10,4.6,mb,59,64,2.918,0.67,us,us6000rq2q,2026-02-20T16:07:35.040Z,"23 km SW of Kabare, Democratic Republic of the Congo",earthquake,10.66,1.877,0.079,48,reviewed,us,us
+2025-12-08T12:19:46.311Z,-2.7764,28.6988,10,4.7,mb,53,99,2.97,0.69,us,us6000rtd7,2026-03-04T18:43:32.040Z,"32 km SSW of Kabare, Democratic Republic of the Congo",earthquake,9.74,1.874,0.081,46,reviewed,us,us
+2026-02-02T03:08:10.752Z,-0.9751,29.1072,11.88,4.5,mb,29,84,1.672,0.99,us,us6000s9ze,2026-04-23T20:43:25.040Z,"61 km W of Ntungamo, Uganda",earthquake,9.44,3.001,0.127,18,reviewed,us,us
+2026-03-12T02:00:14.143Z,-1.5469,28.5777,10,4.2,mb,13,100,8.682,0.64,us,us7000s7be,2026-05-26T19:17:06.040Z,"51 km W of Sake, Democratic Republic of the Congo",earthquake,9.38,1.961,0.199,7,reviewed,us,us
+2026-03-12T23:39:46.507Z,-1.4426,28.3242,10,4.3,mb,12,88,2.554,0.65,us,us7000s7cc,2026-05-26T19:17:06.040Z,"81 km W of Sake, Democratic Republic of the Congo",earthquake,6.01,1.943,0.217,6,reviewed,us,us
+2026-04-13T17:11:44.938Z,-4.3617,29.6303,10,4.3,mb,22,94,3.895,0.72,us,us6000spnl,2026-08-21T03:23:30.730Z,"31 km SW of Makamba, Burundi",earthquake,8.22,1.902,0.126,18,reviewed,us,us
+2026-05-07T23:45:15.749Z,0.0394,29.7949,10,4.2,mb,8,137,1.138,0.68,us,us6000sxyg,2026-07-18T18:23:27.040Z,"29 km SW of Kilembe, Uganda",earthquake,7.33,1.992,0.264,4,reviewed,us,us
